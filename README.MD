@@ -1,5 +1,5 @@
 # TS NODE COIN
-Projeto criado no intuito de demonstrar e praticar o básico de TypeScript.
+Projeto criado no intuito de demonstrar e praticar o básico de TypeScript. Neste projeto utilizamos a API de criptomoedas [CoinGecko](https://www.coingecko.com/en/api/documentation).
 
 ## Requisitos
 
